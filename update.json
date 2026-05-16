@@ -1,5 +1,5 @@
 {
-  "version": "3.7.0",
+  "version": "3.8.0",
   "release_notes": "🚀 Nova Hardened Security Update:\n- New AppData License Storage (More Secure)\n- HMAC Integrity Protection\n- UI Performance Optimizations\n- Automatic Session Heartbeat\n- Unified Update Notification System",
   "download_url": "https://github.com/e5lam1-design/SFX-PRO/releases/download/3.7/sfx_browser_v3.7working.rar"
 }
